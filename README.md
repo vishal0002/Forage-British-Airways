@@ -1,4 +1,4 @@
-# British Airways Lounge Access Lookup Table - Heathrow Terminal 3
+# British Airways - Heathrow Terminal 3
 
 # Summary Task 1
 
